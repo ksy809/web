@@ -1,11 +1,11 @@
 # homepage
 homepage:
   head:
-    title: "Home | [이름]" # TODO: 이름 추가
+    title: "Home | Siyeon Kim" # TODO: 이름 추가
 # showcase
 showcase:
   enable: true
-  title: "Hello, I’m [이름]" # TODO: 이름 추가
+  title: "Hello, I’m Siyeon Kim" # TODO: 이름 추가
   subtitle: "Developer"
   description: "[소개]" # TODO: 소개 추가
   image:
